@@ -10,4 +10,4 @@ python zmqclient.py
 Make a request to localhost:5000/downcase/?Param=Hello
 
 Messages from publisher will start to get recorded in the client.
-Additonally if the client runs as a daemon, it logs to a file called sibscriber.log
+Additonally, it logs to a file called subscriber.log
