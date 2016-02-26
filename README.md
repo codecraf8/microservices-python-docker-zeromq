@@ -13,3 +13,5 @@ Make a request to `localhost:5000/downcase/?Param=<String with mixed case letter
 Messages from publisher will be sent over to subscriber.
 
 Additonally, it logs to a file called subscriber.log
+
+You can read more about it [here](http://blog.apcelent.com/how-to-setup-microservices-python-zeromq-docker-example.html).
